@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working with **Growth** at [Proxify.io](https://proxify.io/). We are building the future platform for remote developers. 
+I'm working with **Growth**. Right now at [Proxify.io](https://proxify.io/). We help connect the best developers with the most exciting projects. 
 
 ### Oh, and we are hiring now:
 
