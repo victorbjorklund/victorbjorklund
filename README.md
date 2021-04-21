@@ -2,7 +2,7 @@
 
 I'm a **Fullstack marketer** during the day and a **Fullstack developer** during the night. 
 
-Rigth now enjoying: 
+Right now enjoying: 
 - Python
 - Node.JS
 - Golang
